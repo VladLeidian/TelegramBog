@@ -11,5 +11,5 @@
 Вторая версия уже позволит стать хозяином ПК пользователя.
 </p>
 
-<a href='вставить ссылку на файл с командами'>Команды бота</a>
+<a href='https://github.com/VladLeidian/TelegramBog/blob/master/readme/README.md)https://github.com/VladLeidian/TelegramBog/blob/master/readme/README.md'>Команды бота</a>
 
